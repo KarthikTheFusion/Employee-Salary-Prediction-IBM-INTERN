@@ -47,3 +47,5 @@ Jupyter Notebook – development environment
 
 📈 Outcome
 The trained model can estimate salaries with reasonable accuracy and serves as a useful tool for salary benchmarking. It also showcases the application of regression techniques in real-world HR analytics.
+<img width="1919" height="972" alt="Screenshot 2025-07-20 160555" src="https://github.com/user-attachments/assets/4a9874a2-0e8a-4a6b-b3c9-50f39c4be40c" />
+
